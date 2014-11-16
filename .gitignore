@@ -1,0 +1,6 @@
+*.dSYM
+*.log
+*.out
+*~
+.DS_Store
+lib/
